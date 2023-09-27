@@ -15,6 +15,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install praw requests instagrapi
+```
 
 ## Usage
 
