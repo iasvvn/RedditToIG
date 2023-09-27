@@ -15,3 +15,10 @@ You can install these libraries using pip:
 
 ```bash
 pip install praw requests instagrapi
+
+## Usage
+
+Once you have set up the configuration and installed the required libraries, you can run the script to automatically download images from a subreddit and repost them to Instagram.
+
+```bash
+python main.py
