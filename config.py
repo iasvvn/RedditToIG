@@ -1,0 +1,10 @@
+client_id = 'BYs86unQEN2pmFFRxAPadQ'
+client_secret = '5SHCf9MukEzNpgbKsjRj_jbZ2XNCtg' 
+reddit_username = 'pokesyk'
+reddit_pass = 'Sk4s3Ps0f13!'
+subreddit_name = '196'
+instagram_username = 'rickowensfortnite'
+instagram_pass = 'Sk4s3Ps0f13!'
+caption_text = 'rick owens fortnite'
+hashtags = '#memes'
+sleep_time = 3600 #time between posts in seconds, keep them AT LEAST 30 mins apart
